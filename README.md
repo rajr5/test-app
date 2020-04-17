@@ -1,5 +1,7 @@
 # TestApp
 
+![Build Status](https://codebuild.eu-central-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS2NlUnFVUStQSVB0dXlkNHlUc1lheFdSbjBYQTAvWlF1aTZTNjBOQzRnemlXSlYwUThUaWFDdU8yZW1kMHI5N0xhcDJyN2lQdXIrYlJRQ3JxNnN1a0dnPSIsIml2UGFyYW1ldGVyU3BlYyI6IkdBaTNrY2FLQVNHZXZrTEwiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 To start your Phoenix server:
 
 - Install dependencies with `mix deps.get`
